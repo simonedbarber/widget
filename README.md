@@ -2,6 +2,8 @@
 
 Widget are defined, customizable, shareable HTML *widgets* that can be used within [QOR Admin](https://github.com/qor/admin) or your own frontend.
 
+[![Build Status](https://travis-ci.com/qor/widget.svg?branch=master)](https://travis-ci.com/qor/widget)
+
 ## Getting Started
 
 ```go

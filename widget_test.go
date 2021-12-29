@@ -14,7 +14,7 @@ import (
 	"github.com/qor/admin"
 	"github.com/qor/qor"
 	"github.com/qor/qor/test/utils"
-	"github.com/qor/widget"
+	"github.com/simonedbarber/widget"
 )
 
 var db *gorm.DB

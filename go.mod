@@ -1,4 +1,4 @@
-module github.com/qor/widget
+module github.com/simonedbarber/widget
 
 go 1.13
 
